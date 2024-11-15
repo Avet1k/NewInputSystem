@@ -10,6 +10,7 @@ public class PlayerInputController : MonoBehaviour
         _playerInput = new PlayerInput();
 
         _playerInput.Player.Shoot.performed += OnShoot;
+        _playerInput.Player.Move.performed += OnMove;
     }
 
     private void OnEnable()
@@ -25,5 +26,11 @@ public class PlayerInputController : MonoBehaviour
     public void OnShoot(InputAction.CallbackContext context)
     {
         Debug.Log("Shoot");
+    }
+
+    public void OnMove(InputAction.CallbackContext context)
+    {
+        Vector2 direction = context.action.ReadValue<Vector2>();
+        Debug.Log(direction);
     }
 }
