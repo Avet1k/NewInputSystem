@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a66bfba3-a731-47a7-923a-c21d592b1e2a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayerInput.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerInput.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayerInput.inputactions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NewInputSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NewInputSystem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayerInput.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayerInput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayerInput.inputactions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayerInput.inputactions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayerInputController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayerInputController.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,34 +21,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Player.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2osJXADKoiwtwG9hHXVNEIrhTQW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "/home/avetik/.config/JetBrains/Rider2024.1/resharper-host/DecompilerCache",
-      "/home/avetik/.config/JetBrains/Rider2024.1/resharper-host/SourcesCache",
-      "/home/avetik/.local/share/Symbols/src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/home/avetik/.config/JetBrains/Rider2024.1/resharper-host/DecompilerCache&quot;,
+      &quot;/home/avetik/.config/JetBrains/Rider2024.1/resharper-host/SourcesCache&quot;,
+      &quot;/home/avetik/.local/share/Symbols/src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="$USER_HOME$/Unity/Hub/Editor/2022.3.4f1/Editor/Unity" />
@@ -90,7 +98,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731652392324</updated>
-      <workItem from="1731652398632" duration="2720000" />
+      <workItem from="1731652398632" duration="5460000" />
+      <workItem from="1731740144850" duration="60000" />
     </task>
     <servers />
   </component>
